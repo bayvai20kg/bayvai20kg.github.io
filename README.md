@@ -52,7 +52,6 @@ I am Vũ Gia Khang, a newbie about computer science <img src="https://media.giph
 ---
 
 ### :writing_hand: Blog Posts :nothing done but I will try my best to write more
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 
